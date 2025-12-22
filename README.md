@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Mirco Aguilar 👋
 
-<!--
-**mircoaguilar/mircoaguilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente me encuentro estudiando en el Instituto Privado Robustiano Macedo Martinez, la carrera de "Tecnico Superior en Desarrollo de Software"
 
-Here are some ideas to get you started:
+## 🔧 Tecnologías y herramientas
+- PHP, MySQL Y JAVASCRIPT
+- Laravel 
+- Git y GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyectos destacados
+- [Repositorio de tesis](https://github.com/mircoaguilar/viajar.git) - Proyecto de practicas profesionalizantes II, en proceso de ultimar detalles.
+
+## 📊 Estadísticas de GitHub
+![Estadísticas de Mirco](https://github-readme-stats.vercel.app/api?username=mircoaguilar&show_icons=true&theme=radical)
+
+[![Redes sociales](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mircoaguilar_/)
+
