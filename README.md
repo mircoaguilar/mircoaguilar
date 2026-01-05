@@ -3,7 +3,7 @@
 Actualmente me encuentro estudiando en el Instituto Privado Robustiano Macedo Martinez, la carrera de "Tecnico Superior en Desarrollo de Software"
 
 ## 🔧 Tecnologías y herramientas
-- PHP, MySQL Y JAVASCRIPT
+- HTML, CSS, JAVASCRIPT, BOOTSTRAP, PHP, MySQL.
 - Laravel 
 - Git y GitHub
 
