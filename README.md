@@ -7,8 +7,5 @@ Actualmente me encuentro estudiando en el Instituto Privado Robustiano Macedo Ma
 - Laravel 
 - Git y GitHub
 
-## 📂 Proyectos destacados
-- [Repositorio de tesis](https://github.com/mircoaguilar/viajar.git) - Proyecto de practicas profesionalizantes II, en proceso de ultimar detalles.
-
 [![Redes sociales](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mircoaguilar_/)
 
