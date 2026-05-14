@@ -1,11 +1,34 @@
-# Hola, soy Mirco Aguilar 👋
+# Hola, soy Mirco Aguilar 
 
-Actualmente me encuentro estudiando en el Instituto Privado Robustiano Macedo Martinez, la carrera de "Tecnico Superior en Desarrollo de Software"
+Actualmente estoy finalizando mi formación como Técnico Superior en Desarrollo de Software, mientras desarrollo proyectos reales y continúo fortaleciendo mis habilidades en tecnologías web.
 
-## 🔧 Tecnologías y herramientas
-- HTML, CSS, JAVASCRIPT, BOOTSTRAP, PHP, MySQL.
-- Laravel 
-- Git y GitHub
+## Tecnologías y herramientas
 
-[![Redes sociales](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mircoaguilar_/)
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- Bootstrap
+- Responsive Design
+
+### Backend
+- PHP
+- Laravel
+- Node.js
+- Express.js
+- Autenticación
+- APIs REST
+
+### Base de datos
+- MySQL
+- Diseño relacional
+- Consultas SQL
+
+### Herramientas
+- Git
+- GitHub
+- Postman
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mircoaguilar)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mircoaguilar.dev@gmail.com)
 
