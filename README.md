@@ -30,5 +30,5 @@ Actualmente estoy finalizando mi formación como Técnico Superior en Desarrollo
 - Postman
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mircoaguilar)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mircoaguilar.dev@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=mircoaguilar.dev@gmail.com)
 
