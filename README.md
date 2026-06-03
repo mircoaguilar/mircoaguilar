@@ -9,7 +9,6 @@ Actualmente estoy finalizando mi formación como Técnico Superior en Desarrollo
 - CSS3
 - JavaScript (Vanilla)
 - Bootstrap
-- Responsive Design
 
 ### Backend
 - PHP
