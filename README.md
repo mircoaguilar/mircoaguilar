@@ -1,13 +1,13 @@
 # Hola, soy Mirco Aguilar 
 
-Actualmente estoy finalizando mi formación como Técnico Superior en Desarrollo de Software, mientras desarrollo proyectos reales y continúo fortaleciendo mis habilidades en tecnologías web.
+Soy desarrollador backend enfocado en la construcción de aplicaciones web y sistemas de gestión. Trabajo principalmente con Node.js, Express y bases de datos relacionales, desarrollando APIs REST, lógica de negocio e integraciones orientadas a casos de uso reales. Actualmente finalizo la Tecnicatura Superior en Desarrollo de Software y continúo ampliando mi experiencia mediante proyectos propios y freelance.
 
 ## Tecnologías y herramientas
 
 ### Frontend
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript 
 - Bootstrap
 
 ### Backend
@@ -15,13 +15,11 @@ Actualmente estoy finalizando mi formación como Técnico Superior en Desarrollo
 - Laravel
 - Node.js
 - Express.js
-- Autenticación
 - APIs REST
 
 ### Base de datos
 - MySQL
-- Diseño relacional
-- Consultas SQL
+- PostgreSQL
 
 ### Herramientas
 - Git
@@ -30,4 +28,5 @@ Actualmente estoy finalizando mi formación como Técnico Superior en Desarrollo
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mircoaguilar)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=mircoaguilar.dev@gmail.com)
+[![Portfolio](https://skillicons.dev/icons?i=vercel)](https://portfolio-mirco-aguilar.vercel.app/)
 
